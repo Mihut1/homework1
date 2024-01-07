@@ -30,7 +30,7 @@ What millennials are investing in (the average age of Robinhood's users is 30).
 * How is the company funded? How much funding have they received?
   Robinhood has been funded through venture capital. Since its inception, the company has raised several rounds of funding, attracting significant interest from investors due to its disruptive business model and rapid growth.
 
-As of my last update in April 2023, Robinhood had raised over $2 billion in funding. Key investors have included venture capital firms like Andreessen Horowitz, Sequoia Capital, and Ribbit Capital, among others. The company went through various funding rounds, from Series A to Series G, with each round attracting more significant investments as the company's valuation soared.
+Robinhood had raised over $2 billion in funding. Key investors have included venture capital firms like Andreessen Horowitz, Sequoia Capital, and Ribbit Capital, among others. The company went through various funding rounds, from Series A to Series G, with each round attracting more significant investments as the company's valuation soared.
 
 In addition to venture capital, Robinhood's financial journey included an initial public offering (IPO). The company went public on July 29, 2021, under the ticker symbol "HOOD" on the Nasdaq stock exchange. This public offering was another significant step in its funding and provided a new avenue for raising capital while giving the public the opportunity to own a piece of the company.
 
@@ -55,7 +55,7 @@ Their "unfair advantage" could be seen as their early move into commission-free 
 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-As of my last update, Robinhood relies heavily on a combination of advanced financial technologies and software engineering to power its platform. Key technologies include:
+ Robinhood relies heavily on a combination of advanced financial technologies and software engineering to power its platform. Key technologies include:
 
 
  1.Programming Languages and Frameworks: They use a variety of programming languages like Python, Java, and more. For their mobile applications, they likely use Swift (for iOS) and Kotlin or Java (for Android).
@@ -187,3 +187,4 @@ Overall, Robinhood has been a transformative player in the fintech space, drivin
 * https://en.wikipedia.org/wiki/Robinhood_Markets
 * https://www.businessinsider.com/robinhood-app-vlad-tenev-founder-free-stock-trading-valuation-2017-7
 * https://www.investopedia.com/articles/active-trading/020515/how-robinhood-makes-money.asp
+* https://www.crunchbase.com/organization/robinhood
