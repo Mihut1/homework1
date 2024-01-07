@@ -188,7 +188,8 @@ Overall, Robinhood has been a transformative player in the fintech space, drivin
   Big Data Analytics: For processing vast amounts of financial data to make informed investment decisions.
 
 * Why are these technologies appropriate for your solution?
-  The technologies listed above are appropriate because they would have a big impact on the market, giving a much lower risk of loss, being much more reliable than a human. The business environment is flooded with massive amount of data, which is not entirely exploited or analyzed.
+
+   The technologies listed above are appropriate because they would have a big impact on the market, giving a much lower risk of loss, being much more reliable than a human. The business environment is flooded with massive amount of data, which is not entirely exploited or analyzed.
   
 * BIBLIOGRAPHY
 * https://en.wikipedia.org/wiki/Robinhood_Markets
