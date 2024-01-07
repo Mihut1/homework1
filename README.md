@@ -12,8 +12,20 @@ Robinhood Markets, Inc. was incorporated in 2013.
 The company was founded by Vladimir Tenev and Baiju Bhatt.
 
 * How did the idea for the company (or project) come about?
-The idea for Robinhood stemmed from the founders' realization that big Wall Street firms pay effectively nothing to trade stocks, while most Americans were charged commission for every trade. Tenev and Bhatt, who had previously built high-frequency trading platforms for financial institutions in New York City, saw an opportunity to democratize finance by creating a commission-free, accessible, and mobile-first brokerage platform. This concept was a response to the inequalities they observed in the financial industry, aiming to make stock trading available to a broader audience, especially younger and more tech-savvy individuals.
+It's hard getting funding for a startup, but it's even harder when the product doesn't exist yet, still requires regulatory approval, and is being launched during a recession.
 
+But after 75 investor pitches, the founders of a commission-free stock-trading app, Robinhood, found a few willing venture capitalists. Now the easy-to-use app has over 2 million users and is valued at about $1.3 billion.
+
+"There were a lot of people who didn't believe in it, and we had to bang down a ton of doors. We were really relentless," Vlad Tenev, the cofounder and co-CEO of Robinhood, told Business Insider US Editor-in-Chief Alyson Shontell on the "Success! How I Did It" podcast. "We probably knocked on 75 doors before we actually made it work."
+
+In the wide-ranging conversation, Tenev and Shontell discussed:
+
+His move to the United States from Bulgaria as a young boy, and how his upbringing affected his career.
+What it was like having about 75 venture-capital doors slammed in his face.
+How he and his cofounder, Baiju Bhatt, got nearly 1 million people to sign up for Robinhood before the app even existed.
+How they met Snoop Dogg, one of Robinhood's investors.
+What it took to build a $1.3 billion company by the age of 30.
+What millennials are investing in (the average age of Robinhood's users is 30).
 
 * How is the company funded? How much funding have they received?
   Robinhood has been funded through venture capital. Since its inception, the company has raised several rounds of funding, attracting significant interest from investors due to its disruptive business model and rapid growth.
@@ -63,7 +75,7 @@ For specific details on their technology stack, one would need to refer to resou
 
 * What domain of the financial industry is the company in?
   
-  Robinhood operates in the fintech (financial technology) domain, specifically within the subdomain of digital brokerage and investment platforms. This segment focuses on leveraging technology to provide easy access to financial markets, offering services like stock trading, options trading, and more recently, cryptocurrency trading.
+  Robinhood Markets Inc. is a financial technology  company that operates an online discount brokerage with commission-free trading. It provides a web- and mobile-based financial services platform that investors can use to buy and sell stocks, exchange-traded funds (ETFs), options, and American depositary receipts (ADRs). Its users also can invest in certain cryptocurrencies.
 
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
@@ -170,3 +182,8 @@ Overall, Robinhood has been a transformative player in the fintech space, drivin
   Big Data Analytics: For processing vast amounts of financial data to make informed investment decisions.
 
 * Why are these technologies appropriate for your solution?
+
+* BIBLIOGRAPHY
+* https://en.wikipedia.org/wiki/Robinhood_Markets
+* https://www.businessinsider.com/robinhood-app-vlad-tenev-founder-free-stock-trading-valuation-2017-7
+* https://www.investopedia.com/articles/active-trading/020515/how-robinhood-makes-money.asp
