@@ -13,8 +13,14 @@ The company was founded by Vladimir Tenev and Baiju Bhatt.
 
 * How did the idea for the company (or project) come about?
 It's hard getting funding for a startup, but it's even harder when the product doesn't exist yet, still requires regulatory approval, and is being launched during a recession.
+Robinhood has been funded through venture capital. Since its inception, the company has raised several rounds of funding, attracting significant interest from investors due to its disruptive business model and rapid growth.
 
-But after 75 investor pitches, the founders of a commission-free stock-trading app, Robinhood, found a few willing venture capitalists. Now the easy-to-use app has over 2 million users and is valued at about $1.3 billion.
+Robinhood had raised over $2 billion in funding. Key investors have included venture capital firms like Andreessen Horowitz, Sequoia Capital, and Ribbit Capital, among others. 
+But after 75 investor pitches, the founders of a commission-free stock-trading app, Robinhood, found a few willing venture capitalists. 
+
+
+In addition to venture capital, Robinhood's financial journey included an initial public offering (IPO). The company went public on July 29, 2021, under the ticker symbol "HOOD" on the Nasdaq stock exchange. This public offering was another significant step in its funding and provided a new avenue for raising capital while giving the public the opportunity to own a part of the company.
+
 
 "There were a lot of people who didn't believe in it, and we had to bang down a ton of doors. We were really relentless," Vlad Tenev, the cofounder and co-CEO of Robinhood, told Business Insider US Editor-in-Chief Alyson Shontell on the "Success! How I Did It" podcast. "We probably knocked on 75 doors before we actually made it work."
 
